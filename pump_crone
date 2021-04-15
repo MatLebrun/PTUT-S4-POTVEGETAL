@@ -1,0 +1,9 @@
+#!/bin/bash
+
+for(( i=0 ;2 - $i; i++))
+
+	do	
+
+		python3 ./PUmp.py
+
+	done

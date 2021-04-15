@@ -1,0 +1,13 @@
+#!/bin/bash
+
+while true
+
+	do
+
+		python3 ./dht.py
+
+		sleep 60
+
+	done
+
+
